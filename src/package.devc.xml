@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>https://github.com/deepakm3/zdevops_branching</CTEXT>
+    <CTEXT>Test Branch</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
